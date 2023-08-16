@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,700;1,300&family=Raleway:ital,wght@0,200;0,400;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,700;1,300&family=Raleway:ital,wght@0,100;0,200;0,400;0,700;1,700&display=swap');
+
+*{
+    font-family: 'Lato','Raleway';
+}
+body{
+    border: 2px solid black;
+    background-color: #782221 ;
+    
+    
+}
+figure{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+img{
+    width: 100%;
+    height: 100%; 
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 0 30px white;
+    
+}
+h1{
+    color: aqua;
+}
+h2{
+    padding: 8px 8px 12px;
+    margin: 10px 6px 3px 14px;
+    background-color: #dbc2a4 ;
+    
+}
+a{
+    
+    background-color: black;
+    color: white;
+    padding: 30px 100px 12px;
+    margin: 10px 6px 3px 14px;
+    margin-bottom: 120px;
+    object-fit: cover;
+    
+}
+*{
+    font-size: 10px;
+}
+
